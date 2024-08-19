@@ -1,0 +1,1017 @@
+Using pre-set license
+Built from 'trunk' branch; Version is '6000.0.8f1 (fa7102f01711) revision 16412930'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'cs' Physical Memory: 32373 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/skope/OneDrive - Smíchovská střední průmyslová škola a gymnázium/Dokumenty/Unity repo/The Experiment
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+55452
+-job-worker-count
+10
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/skope/OneDrive - Smíchovská střední průmyslová škola a gymnázium/Dokumenty/Unity repo/The Experiment
+C:/Users/skope/OneDrive - Smíchovská střední průmyslová škola a gymnázium/Dokumenty/Unity repo/The Experiment
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [1604]  Target information:
+
+Player connection [1604]  * "[IP] 192.168.0.102 [Port] 0 [Flags] 2 [Guid] 2879911200 [EditorId] 2879911200 [Version] 1048832 [Id] WindowsEditor(7,skopec_ntb) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [1604] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [1604] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 10
+Library Redirect Path: Library/
+[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 2.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.8f1 (fa7102f01711)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/skope/OneDrive - Smíchovská střední průmyslová škola a gymnázium/Dokumenty/Unity repo/The Experiment/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Arc(TM) Graphics (ID=0x7d55)
+    Vendor:   Intel
+    VRAM:     16186 MB
+    Driver:   31.0.101.5328
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56276
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.8f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.8f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.005817 seconds.
+- Loaded All Assemblies, in  0.556 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 447 ms
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.174 seconds
+Domain Reload Profiling: 1725ms
+	BeginReloadAssembly (232ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (66ms)
+	LoadAllAssembliesAndSetupDomain (191ms)
+		LoadAssemblies (228ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (186ms)
+			TypeCache.Refresh (184ms)
+				TypeCache.ScanAssembly (169ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1175ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1114ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (631ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (10ms)
+			ProcessInitializeOnLoadAttributes (209ms)
+			ProcessInitializeOnLoadMethodAttributes (259ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.330 seconds
+Refreshing native plugins compatible for Editor in 1.47 ms, found 3 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.397 seconds
+Domain Reload Profiling: 2720ms
+	BeginReloadAssembly (479ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (738ms)
+		LoadAssemblies (509ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (354ms)
+			TypeCache.Refresh (225ms)
+				TypeCache.ScanAssembly (204ms)
+			BuildScriptInfoCaches (106ms)
+			ResolveRequiredComponents (20ms)
+	FinalizeReload (1398ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (962ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (28ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (82ms)
+			ProcessInitializeOnLoadAttributes (520ms)
+			ProcessInitializeOnLoadMethodAttributes (322ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 223 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5887 unused Assets / (4.1 MB). Loaded Objects now: 6675.
+Memory consumption went from 188.8 MB to 184.7 MB.
+Total: 11.039000 ms (FindLiveObjects: 0.707500 ms CreateObjectMapping: 0.433200 ms MarkObjects: 7.034400 ms  DeleteObjects: 2.862600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 183473.684479 seconds.
+  path: Assets/InputSystem_Actions.inputactions
+  artifactKey: Guid(052faaac586de48259a63d0c4782560b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/InputSystem_Actions.inputactions using Guid(052faaac586de48259a63d0c4782560b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'e962ee9b624c31c470e4965eaee476e2') in 0.7137419 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+  artifactKey: Guid(dd89cf5b9246416f84610a006f916af7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader using Guid(dd89cf5b9246416f84610a006f916af7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '026c24b620f8cc395975acd9c0b1f354') in 0.0392269 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Resources/kenney_mini-characters/Previews/character-male-f.png
+  artifactKey: Guid(d9f9496449f60b541850067883313106) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Previews/character-male-f.png using Guid(d9f9496449f60b541850067883313106) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '35f89675214fa13908aab0dab62f8410') in 0.0945064 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/TextMesh Pro/Resources/TMP Settings.asset
+  artifactKey: Guid(3f5b5dff67a942289a9defa416b206f3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/TMP Settings.asset using Guid(3f5b5dff67a942289a9defa416b206f3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'c9cef3f0c266666ae9e0dc107524eb0f') in 0.074485 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+  artifactKey: Guid(fade42e8bc714b018fac513c043d323b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt using Guid(fade42e8bc714b018fac513c043d323b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '5777084648392a8accc8e0788c1e100a') in 0.0157967 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Resources/kenney_animated-characters-2/Skins/skaterMaleA.png
+  artifactKey: Guid(f19ea2598ab9c5b46828379755b793d8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_animated-characters-2/Skins/skaterMaleA.png using Guid(f19ea2598ab9c5b46828379755b793d8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '1f58e2eb427acd9509f668ee2064db6c') in 0.0495202 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/FBX format/aid-cane-low-vision.fbx
+  artifactKey: Guid(76c05a3bc39865848bf2728b323e2571) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/FBX format/aid-cane-low-vision.fbx using Guid(76c05a3bc39865848bf2728b323e2571) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'ff1443d233839fe2c7de33aad22cf86c') in 0.164281 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Settings/PC_RPAsset.asset
+  artifactKey: Guid(4b83569d67af61e458304325a23e5dfd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/PC_RPAsset.asset using Guid(4b83569d67af61e458304325a23e5dfd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'f4f15d7d26848ed4c0b335b786e32019') in 0.0838512 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/TutorialInfo/Icons/URP.png
+  artifactKey: Guid(727a75301c3d24613a3ebcec4a24c2c8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TutorialInfo/Icons/URP.png using Guid(727a75301c3d24613a3ebcec4a24c2c8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'f3249a9835fd1f1bbffba2fef950bf4a') in 0.0330057 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '055dc1e76504bbade13a5dfc8602971a') in 0.0569836 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/FBX format/aid-glasses.fbx
+  artifactKey: Guid(837ad40eb787cb145936b3d7c1fc0d53) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/FBX format/aid-glasses.fbx using Guid(837ad40eb787cb145936b3d7c1fc0d53) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '7499c256fc5e5c6459e62a0a74e0d9f4') in 0.0757845 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'e1c47d2f0415eeed1fcead5f7ac16ac8') in 0.0726119 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Resources/kenney_animated-characters-2/Skins/Source/criminalMaleA.svg
+  artifactKey: Guid(403ebb8cfc0322040b8f93e4fafb8874) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_animated-characters-2/Skins/Source/criminalMaleA.svg using Guid(403ebb8cfc0322040b8f93e4fafb8874) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'dfba9b241dce844a824318d54a09437e') in 0.0213467 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Resources/Labs/controlroom.fbx
+  artifactKey: Guid(ad261f1fece56e348aee5d0c57c849e1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/Labs/controlroom.fbx using Guid(ad261f1fece56e348aee5d0c57c849e1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '1241b177ab56d5cc83d6ba6516c6aa16') in 0.0707998 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+  artifactKey: Guid(1e3b057af24249748ff873be7fafee47) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader using Guid(1e3b057af24249748ff873be7fafee47) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '6c99149cb40f7f70f9d2b85acd25d3ae') in 0.0298335 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/TutorialInfo/Scripts/Readme.cs
+  artifactKey: Guid(fcf7219bab7fe46a1ad266029b2fee19) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TutorialInfo/Scripts/Readme.cs using Guid(fcf7219bab7fe46a1ad266029b2fee19) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '7a01146b2c7d2dd37031d69cf0f274f6') in 0.036378 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/FBX format/character-male-d.fbx
+  artifactKey: Guid(cde258384cd201543ab8b20e2bfa33e6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/FBX format/character-male-d.fbx using Guid(cde258384cd201543ab8b20e2bfa33e6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'beb7b81a9e247b84b4686cdad60f5d96') in 0.1444295 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Resources/kenney_mini-characters/Previews/wheelchair-power-deluxe.png
+  artifactKey: Guid(239df85fdd0ab2545b4c5700059e59ad) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Previews/wheelchair-power-deluxe.png using Guid(239df85fdd0ab2545b4c5700059e59ad) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'abd3f0657727349c5c7186d111dd2764') in 0.0408599 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+  artifactKey: Guid(c41005c129ba4d66911b75229fd70b45) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset using Guid(c41005c129ba4d66911b75229fd70b45) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '216f6fa1aa43f4b08812da2367b46b5d') in 0.0308953 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Settings/Mobile_Renderer.asset
+  artifactKey: Guid(65bc7dbf4170f435aa868c779acfb082) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/Mobile_Renderer.asset using Guid(65bc7dbf4170f435aa868c779acfb082) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'cc378c520bf6287096cf962c5963ec9e') in 0.061305 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/aid-crutch.glb
+  artifactKey: Guid(d2299032308c0334ab60d5b4066f38ad) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/aid-crutch.glb using Guid(d2299032308c0334ab60d5b4066f38ad) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '3bc426648114684588d3cae9d00f2cf5') in 0.0214209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/aid-cane.glb
+  artifactKey: Guid(089401fba55a9fe42978d9434226bff3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/aid-cane.glb using Guid(089401fba55a9fe42978d9434226bff3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'c63c22381365c2a1d994bc90bbdf68cd') in 0.0167721 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/FBX format/aid-cane.fbx
+  artifactKey: Guid(cae3f861e8b74194389d7589408adb7e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/FBX format/aid-cane.fbx using Guid(cae3f861e8b74194389d7589408adb7e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'b698064a1119dea14e6c95c103dad3a0') in 0.0362915 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Resources/kenney_animated-characters-2/Skins/criminal.mat
+  artifactKey: Guid(2557c65e48d94de48adbe3c9162390dd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_animated-characters-2/Skins/criminal.mat using Guid(2557c65e48d94de48adbe3c9162390dd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '4d17d4a09c7d04927fa3845e63629419') in 0.0255708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/FBX format/character-male-e.fbx
+  artifactKey: Guid(cf6a6bf12addc3841a8247019d05ae2c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/FBX format/character-male-e.fbx using Guid(cf6a6bf12addc3841a8247019d05ae2c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '0a7410ef9b2d25e5030d40dd305ed31a') in 0.1250415 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/character-female-c.glb
+  artifactKey: Guid(9de7c1a7a3af3ad45b947907e9787294) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/character-female-c.glb using Guid(9de7c1a7a3af3ad45b947907e9787294) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '07f26f70a2ddec567bc646301791218e') in 0.0202558 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/aid-mask.glb
+  artifactKey: Guid(42191e8c68a80bf4782027078a463cf3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/aid-mask.glb using Guid(42191e8c68a80bf4782027078a463cf3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'e3ff8d78691c021dbb580405747ecb1c') in 0.0165534 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Resources/kenney_mini-characters/Previews/aid-sunglasses.png
+  artifactKey: Guid(b5bbbb750a1be3a49833c33420c4c000) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Previews/aid-sunglasses.png using Guid(b5bbbb750a1be3a49833c33420c4c000) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '35af3b6d782c5d80b7608b11f182eb7c') in 0.0386536 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/character-female-e.glb
+  artifactKey: Guid(a634ce116c1394d4996f2ad364c2c620) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/character-female-e.glb using Guid(a634ce116c1394d4996f2ad364c2c620) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '2837fab69f66de6adacbf32fb853be3c') in 0.0171957 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Materials/border.mat
+  artifactKey: Guid(502196eef0461e94bbbc9039a146d0b6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Materials/border.mat using Guid(502196eef0461e94bbbc9039a146d0b6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '9df8d1e6419fd0af9831d5506fc4f3a1') in 0.0264287 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Settings/PC_Renderer.asset
+  artifactKey: Guid(f288ae1f4751b564a96ac7587541f7a2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/PC_Renderer.asset using Guid(f288ae1f4751b564a96ac7587541f7a2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'ae9790982de0000420417048c8443386') in 0.0411691 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Resources/kenney_mini-characters/Previews/wheelchair-deluxe.png
+  artifactKey: Guid(92d83d58a2d3e1f4cab3d8a5164bef28) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Previews/wheelchair-deluxe.png using Guid(92d83d58a2d3e1f4cab3d8a5164bef28) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'a63ceea5f8bb2eb421f72e6d91ed36b1') in 0.0321987 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/character-female-f.glb
+  artifactKey: Guid(75484a14aab5ea04196428fdd31ee1fc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/character-female-f.glb using Guid(75484a14aab5ea04196428fdd31ee1fc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '873b4a3df3b423c51533e3bf77c0e9f7') in 0.0146766 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/character-male-b.glb
+  artifactKey: Guid(d030179a11a012a40a1fc18623ba7304) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/character-male-b.glb using Guid(d030179a11a012a40a1fc18623ba7304) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '66b890be65cbcf2f94659c7ae61ac0da') in 0.0145357 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/character-male-c.glb
+  artifactKey: Guid(f9a4e4cdd5359284ebd2afc8fe0a10c4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/character-male-c.glb using Guid(f9a4e4cdd5359284ebd2afc8fe0a10c4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'd741d219d543d14a02ecbc995ac25e05') in 0.0221753 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Settings/DefaultVolumeProfile.asset
+  artifactKey: Guid(ab09877e2e707104187f6f83e2f62510) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/DefaultVolumeProfile.asset using Guid(ab09877e2e707104187f6f83e2f62510) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'a466b3e462166453b24162427b6ccdc9') in 0.0265203 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+  artifactKey: Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF.shader using Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'dec959b5c002a721f76462c5baff8ce5') in 0.0228626 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(18dc0cd2c080841dea60987a38ce93fa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/UniversalRenderPipelineGlobalSettings.asset using Guid(18dc0cd2c080841dea60987a38ce93fa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '05b9a21a6050d0f667e10982c4622e8e') in 0.128909 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/FBX format/wheelchair-power-deluxe.fbx
+  artifactKey: Guid(086239e02d4b6bb479065463d866bfcb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/FBX format/wheelchair-power-deluxe.fbx using Guid(086239e02d4b6bb479065463d866bfcb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'adb08f9ca39b763d59df20fcb93006a0') in 0.0417742 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-mask.obj
+  artifactKey: Guid(e19536d67dfcb164592ba21eb5f37c64) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-mask.obj using Guid(e19536d67dfcb164592ba21eb5f37c64) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '13f2e72005d253299550a3eb6d7d10be') in 0.0440114 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-mask.mtl
+  artifactKey: Guid(b60ab2843c14ce24cb07514823070340) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-mask.mtl using Guid(b60ab2843c14ce24cb07514823070340) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'a552f3af5c47b7d7ac3c1dd6597b6bdb') in 0.0169087 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-cane.mtl
+  artifactKey: Guid(2cfb359c3df876b4a91b8e420c7709fd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-cane.mtl using Guid(2cfb359c3df876b4a91b8e420c7709fd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '58f1f909e984520f3b6fdb40640ecd56') in 0.0178755 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-defibrillator-red.obj
+  artifactKey: Guid(8e99095c512721b4188a70dc55416232) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-defibrillator-red.obj using Guid(8e99095c512721b4188a70dc55416232) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'c9f54ffc3b56b332434bdb1cbee5aa63') in 0.0436292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Resources/kenney_mini-characters/Overview.html
+  artifactKey: Guid(7d5db6249f273d648a011c182d72ee4d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Overview.html using Guid(7d5db6249f273d648a011c182d72ee4d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'c56f8d2881b09556b8305278bfa8644a') in 0.0270186 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Resources/kenney_animated-characters-2/Animations/jump.fbx
+  artifactKey: Guid(298174a8a91b1e843a463a522acd31ac) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_animated-characters-2/Animations/jump.fbx using Guid(298174a8a91b1e843a463a522acd31ac) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'be3efe9da0bb26ac55beb736b37946dd') in 0.0491597 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 122
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/aid_hearing.mtl
+  artifactKey: Guid(4b336b27028212d4492ecf9e18768f5c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/aid_hearing.mtl using Guid(4b336b27028212d4492ecf9e18768f5c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '66e99b4bee1c65761d6f67f05161c12a') in 0.018834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/aid_hearing.obj
+  artifactKey: Guid(06cb2d0219b993848aa528415eb85d8e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/aid_hearing.obj using Guid(06cb2d0219b993848aa528415eb85d8e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '7828f1f893facb90180f7691105a61ff') in 0.0548665 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Resources/kenney_mini-characters/Previews/aid-mask.png
+  artifactKey: Guid(227f17763f525174f936719f4b64eb82) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Previews/aid-mask.png using Guid(227f17763f525174f936719f4b64eb82) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '63222004ee5a5f24efc3fd3fc6e22856') in 0.0394041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/aid_hearing.glb
+  artifactKey: Guid(5e35b2d9520c69549b033ede1ffee085) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/aid_hearing.glb using Guid(5e35b2d9520c69549b033ede1ffee085) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '998c9f027563faad75c5554b7ce18ad8') in 0.0159804 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/character-female-c.obj
+  artifactKey: Guid(2204ac6d722a26f4aad66ca91ae69b1e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/character-female-c.obj using Guid(2204ac6d722a26f4aad66ca91ae69b1e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'ebe291a4b37725362d64002ee59ce3d6') in 0.0438728 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Resources/kenney_mini-characters/Previews/character-female-e.png
+  artifactKey: Guid(9cd166f24999d2e4fbcdb0e38bbc8774) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Previews/character-female-e.png using Guid(9cd166f24999d2e4fbcdb0e38bbc8774) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'd4eb6646e8fe652cdee31c25234cd7fe') in 0.0467773 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/character-male-c.mtl
+  artifactKey: Guid(9ac788ecec0aeb6429f3cc6c0e6a2095) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/character-male-c.mtl using Guid(9ac788ecec0aeb6429f3cc6c0e6a2095) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '655cb63e3d8fdd2dac111a2cf76791e7') in 0.0189971 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/character-male-f.mtl
+  artifactKey: Guid(eecb286dd625c3d49b75941b02854403) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/character-male-f.mtl using Guid(eecb286dd625c3d49b75941b02854403) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '0a8004463aea37cd979ff48ca1447be5') in 0.0210887 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/FBX format/character-male-a.fbx
+  artifactKey: Guid(7ce053c33f6196e4bbd7136c5a1974b8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/FBX format/character-male-a.fbx using Guid(7ce053c33f6196e4bbd7136c5a1974b8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '0ce60869d9de040d2e02016ab793127f') in 0.1213091 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/FBX format/character-male-b.fbx
+  artifactKey: Guid(3b3eba0ee56962c44bee7412438f482f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/FBX format/character-male-b.fbx using Guid(3b3eba0ee56962c44bee7412438f482f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'da5b8a3ac8a26fe5667f400d7baf7fac') in 0.1439512 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/FBX format/wheelchair.fbx
+  artifactKey: Guid(a57c87b701984164d9b1da575ebbad76) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/FBX format/wheelchair.fbx using Guid(a57c87b701984164d9b1da575ebbad76) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'f8b89f6e00e43549e126e63ce6e0aa3b') in 0.0439079 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/wheelchair-deluxe.obj
+  artifactKey: Guid(66557d67dc8c0994f9559bb32dbd87a9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/wheelchair-deluxe.obj using Guid(66557d67dc8c0994f9559bb32dbd87a9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '776acb813d8888b36e72e1a3bfc73a41') in 0.0320651 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/character-male-c.obj
+  artifactKey: Guid(067982d1f1aae92418b064f7c388a77b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/character-male-c.obj using Guid(067982d1f1aae92418b064f7c388a77b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '3ad58e732087527d933668f64579d909') in 0.0509869 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Resources/kenney_animated-characters-2/Skins/cyborg.mat
+  artifactKey: Guid(38553cf10e505d045a770961148ceba8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_animated-characters-2/Skins/cyborg.mat using Guid(38553cf10e505d045a770961148ceba8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '29e671c63f7c98b6244e7139690d0f81') in 0.0212318 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl
+  artifactKey: Guid(96de908384869cd409c75efa351d5edf) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl using Guid(96de908384869cd409c75efa351d5edf) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '5c3d5aa01b33a4fea9a196ed2c83bdbe') in 0.0300381 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-defibrillator-green.obj
+  artifactKey: Guid(c535c78eac5f16f41b97da82bb52f232) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-defibrillator-green.obj using Guid(c535c78eac5f16f41b97da82bb52f232) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'a50eeecc48c500f463ef7dc825b9c9af') in 0.047756 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/character-male-d.obj
+  artifactKey: Guid(e741af115c33d8040beb5406159ecd94) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/character-male-d.obj using Guid(e741af115c33d8040beb5406159ecd94) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'a8584b91cbd3b022e07a08adfc8975c5') in 0.0435356 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Resources/kenney_mini-characters/Previews/aid-glasses.png
+  artifactKey: Guid(e61a55fd656ad6e41a5c4422c0124a6a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Previews/aid-glasses.png using Guid(e61a55fd656ad6e41a5c4422c0124a6a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '429609f45ed9396a06626b110ac1ead2') in 0.0497819 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-cane.obj
+  artifactKey: Guid(c819a31331148434eb3acb39689481af) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-cane.obj using Guid(c819a31331148434eb3acb39689481af) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '980850fafaff446e8158c594cb1c5465') in 0.0369816 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/character-male-d.glb
+  artifactKey: Guid(7e067d49565a43a4e9f521a9f2d6101a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/character-male-d.glb using Guid(7e067d49565a43a4e9f521a9f2d6101a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '5ace477f7306b9c269cd7a114e32ec05') in 0.0184916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/aid-cane-low-vision.glb
+  artifactKey: Guid(0a4fae20a48c85a469983501e3b7da74) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/aid-cane-low-vision.glb using Guid(0a4fae20a48c85a469983501e3b7da74) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'eaa19ce35d89e050b9dd7537045039a1') in 0.0193453 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Resources/kenney_mini-characters/Previews/character-male-a.png
+  artifactKey: Guid(fe7ca5ca72c99c9419d8237ead6f4e61) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Previews/character-male-a.png using Guid(fe7ca5ca72c99c9419d8237ead6f4e61) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '93f0ac26f69658a4fecd4ba41f826e87') in 0.0521765 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader
+  artifactKey: Guid(0178fcb869bafef4690d177d31d17db8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader using Guid(0178fcb869bafef4690d177d31d17db8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '3316b8de764a9b5953d1bb2dfd511c66') in 0.0257152 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Resources/kenney_mini-characters/Previews/character-female-f.png
+  artifactKey: Guid(f720ba6f94de10749bf4d24cacb542d5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Previews/character-female-f.png using Guid(f720ba6f94de10749bf4d24cacb542d5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '5785a734ac36513aa737a9002b7b89de') in 0.0825257 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
+  artifactKey: Guid(ca2ed216f98028c4dae6c5224a952b3c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph using Guid(ca2ed216f98028c4dae6c5224a952b3c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '0e37fafdebd3f80bcf7618b01b78d417') in 0.0416263 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Resources/Labs/labs wall texture.png
+  artifactKey: Guid(a69902881e991b243832911d9133a9bf) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/Labs/labs wall texture.png using Guid(a69902881e991b243832911d9133a9bf) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '30ef5f4a64253130ea1bac968dd18d79') in 0.0308739 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Resources/Labs/labWall.fbx
+  artifactKey: Guid(926274243289e014dabe980c449e5dee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/Labs/labWall.fbx using Guid(926274243289e014dabe980c449e5dee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'd5da9f602bae147320c57e924ee48c76') in 0.0409376 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph
+  artifactKey: Guid(f63d574838ccfb44f84acc05fed0af48) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph using Guid(f63d574838ccfb44f84acc05fed0af48) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'ffdb896e5c049287a7a00f8205c81996') in 0.0400599 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+  artifactKey: Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Sprite.shader using Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '210b135d200ac5200c8a51bb064023df') in 0.0196174 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-cane-low-vision.obj
+  artifactKey: Guid(b827a5419db91e54eaee59b583984c60) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-cane-low-vision.obj using Guid(b827a5419db91e54eaee59b583984c60) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '4d335edf9a1ac6e9e795b1cb4d1e32b2') in 0.0422929 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/FBX format/character-female-d.fbx
+  artifactKey: Guid(c7761500658428c40870ba1501295a48) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/FBX format/character-female-d.fbx using Guid(c7761500658428c40870ba1501295a48) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '137999710f77ca8bebfa5dc1f6551c8e') in 0.1410185 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Resources/kenney_animated-characters-2/Skins/Source/skaterFemaleA.svg
+  artifactKey: Guid(ba02bf61b355c664cbaa9e5cb2fd6e0c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_animated-characters-2/Skins/Source/skaterFemaleA.svg using Guid(ba02bf61b355c664cbaa9e5cb2fd6e0c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '8d87ecc715fe1d77e6f2dac9daa7bd70') in 0.0224196 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Resources/kenney_mini-characters/Previews/aid-crutch.png
+  artifactKey: Guid(97b2aac86a43bc44ebfb7b3a4de20f48) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Previews/aid-crutch.png using Guid(97b2aac86a43bc44ebfb7b3a4de20f48) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '6dc978b9d2702369029e1fa41ab860c8') in 0.0339174 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/character-male-a.mtl
+  artifactKey: Guid(4bb8906c915407c40b468ced27abf3ad) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/character-male-a.mtl using Guid(4bb8906c915407c40b468ced27abf3ad) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'b318d5b6d1c2c8ab1ec226f8c48dd098') in 0.0170576 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/character-female-b.obj
+  artifactKey: Guid(a0038f6d85ed44e478e45b5347504a18) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/character-female-b.obj using Guid(a0038f6d85ed44e478e45b5347504a18) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'd305e2a9b5d0bb5241c05b663963ce8a') in 0.0401704 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/character-male-b.obj
+  artifactKey: Guid(44d339ba2fa308b42b3bf897c0d9abb9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/character-male-b.obj using Guid(44d339ba2fa308b42b3bf897c0d9abb9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'ed91d9a1567a285ef2ad4007bad33ea0') in 0.0486397 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-cane-low-vision.mtl
+  artifactKey: Guid(37757b2f63390ff42b34c1d08489e83e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/aid-cane-low-vision.mtl using Guid(37757b2f63390ff42b34c1d08489e83e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'eb971fcd5e64ce47681314b4a1ddc58b') in 0.0184896 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '9b8a8da25087c9f8f42873d59f42222b') in 0.0530075 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+  artifactKey: Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader using Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '94653f2beb00d230b171a1f944c9e842') in 0.0217853 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Resources/kenney_mini-characters/Previews/aid-cane-blind.png
+  artifactKey: Guid(6aeb06ef49a2c0d498d21c8fdeb81765) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Previews/aid-cane-blind.png using Guid(6aeb06ef49a2c0d498d21c8fdeb81765) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'f65e461e171e9fa1ed95195e6625bd4b') in 0.0399612 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/character-female-b.glb
+  artifactKey: Guid(08bee11c1c443e6458b6d5af38988592) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/character-female-b.glb using Guid(08bee11c1c443e6458b6d5af38988592) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '20b767a7de3a5cd41a4c84904887dd21') in 0.0177684 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/character-female-a.glb
+  artifactKey: Guid(3cf92457b192b2c4fbfc6c770a41e181) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/character-female-a.glb using Guid(3cf92457b192b2c4fbfc6c770a41e181) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '8b05bab385ebcf24ed92b871722625ee') in 0.0192196 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/character-male-a.glb
+  artifactKey: Guid(8b30f36d0968f284893feb8ca1bd1532) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/character-male-a.glb using Guid(8b30f36d0968f284893feb8ca1bd1532) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'd0ffa901c586058c1d926709e77a86c1') in 0.0170896 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/OBJ format/wheelchair-power-deluxe.obj
+  artifactKey: Guid(e002eb90042e8b041ac191a3d2e58db4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/OBJ format/wheelchair-power-deluxe.obj using Guid(e002eb90042e8b041ac191a3d2e58db4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'a9051e3c5792bade9b9a93f4c5731da6') in 0.0385915 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Settings/SampleSceneProfile.asset
+  artifactKey: Guid(10fc4df2da32a41aaa32d77bc913491c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/SampleSceneProfile.asset using Guid(10fc4df2da32a41aaa32d77bc913491c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'ee7258d3540a8f77a9d7fed0eb072e1f') in 0.0229085 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Resources/kenney_mini-characters/Models/GLB format/wheelchair.glb
+  artifactKey: Guid(432cbc0b3ee7e6f49b6fb1769f95720e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/kenney_mini-characters/Models/GLB format/wheelchair.glb using Guid(432cbc0b3ee7e6f49b6fb1769f95720e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'f4df4da4e10f5e15253deff4237eebce') in 0.017527 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+  artifactKey: Guid(381dcb09d5029d14897e55f98031fca5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt using Guid(381dcb09d5029d14897e55f98031fca5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '3fc76654b6c59ff84ee33e78aae27a74') in 0.0293251 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
